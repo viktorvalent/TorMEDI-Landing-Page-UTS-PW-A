@@ -9,13 +9,11 @@
 }
 html {
     scroll-behavior: smooth;
-    padding: 0;
-    margin: 0;
 }
 .container {
     margin: 0 4.7rem;
 }
-.about-text h1, #benefits h1, #team h1, #services h1, .pricing-title h1, .faqs-title h1 {
+h1 {
     font-size: 3.1rem;
 }
 
